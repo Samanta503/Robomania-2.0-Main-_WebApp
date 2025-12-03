@@ -93,19 +93,22 @@ const achievements = [
     event: "JUSC National Science Festival 2024",
     image: "https://ik.imagekit.io/mekt2pafz/Achievements/Jusc.jpeg",
   },
-  {
-    title: "1st Runner-Up – RoboCup Championship",
-    event: "DUET TechFest 2023",
-    image: "/images/about/achievements/duet-robocup.jpg",
-  },
+
   {
     title: "1st Runner-Up – Robotics Contest",
     event: "Orbit Engineering Expo 2.0 (Nepal 2024)",
     image: "https://ik.imagekit.io/mekt2pafz/Achievements/Orbit.jpeg",
   },
+ 
+  {
+    title: "2nd Runner-Up – RoboCup Championship",
+    event: "DUET TechFest 2023",
+    image: "https://ik.imagekit.io/mekt2pafz/Achievements/Duet.jpeg",
+  },
+ 
 ];
 
-const previousEvents = [
+const PreviousEvents = [
   {
     title: "AUST Rover Challenge (ARC 2022)",
     subtitle: "National Robotics Competition",
